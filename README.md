@@ -1,4 +1,4 @@
-# Keywords-extraction-from-financial-news
+# Keywords extraction from financial news
 
 ### 关键词抽取
 #### 针对金融新闻文本抽取，需考虑特定金融相关词汇
